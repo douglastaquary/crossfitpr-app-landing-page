@@ -13,7 +13,7 @@ presskit_download_link                    : https://twitter.com/bluesprogrammer 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : CrossFitPR                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Organize your personal records in crossfit workouts.
+app_description                           : Organize and track the evolution of your personal records in CrossFit and high performance workouts.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -27,14 +27,14 @@ instagram_username                        : senhordeengenho
 twitter_username                          : twiiter
 github_username                           : douglastaquary
 youtube_username                          :
-mastodon_link                             : https://mastodon.social/@ebaehr
+mastodon_link                             : 
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Organize and track the evolution of your personal bests in CrossFit and high performance workouts.
+  - title                                 : Organize your personal records in CrossFit workouts.
     description                           : Record the workouts, follow your evolution, delete and organize the records.
     fontawesome_icon_name                 : dumbbell
 
