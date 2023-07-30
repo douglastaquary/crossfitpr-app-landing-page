@@ -34,17 +34,17 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Track your personal records evolution.
+  - title                                 : Track your personal records evolution
     description                           : Record the workouts, track your evolution, delete and organize the records.
     fontawesome_icon_name                 : dumbbell
 
   - title                                 : The Powerful insights
-    description                           : The powerful insights elevator allows you to track and understand your evolution, the highest records through powerful graphics
+    description                           : The powerful insights elevator allows you to track and understand your evolution, the highest records through powerful graphics.
     fontawesome_icon_name                 : chart-bar
 
   - title                                 : Manage your records
     description                           : Your high performance workouts now in one place simply and quickly.
-    fontawesome_icon_name                 : gear
+    fontawesome_icon_name                 : cog
 
   - title                                 : Easy graphics
     description                           : Simple, easy-to-understand graphics to show your evolution.
