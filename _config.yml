@@ -34,8 +34,8 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Organize your personal records in CrossFit workouts.
-    description                           : Record the workouts, follow your evolution, delete and organize the records.
+  - title                                 : Track your personal records evolution.
+    description                           : Record the workouts, track your evolution, delete and organize the records.
     fontawesome_icon_name                 : dumbbell
 
   - title                                 : The Powerful insights
